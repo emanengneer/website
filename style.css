@@ -1,0 +1,20 @@
+h2 ,p{
+    color: #aaaaaaf3 ;
+}
+
+.bookmark{
+    background-color: #EEEEEE;
+}
+.bookmark1{
+    background-image: linear-gradient(#bab7b753,white);
+}
+.bookmark1 .btn2:hover{
+    background-color: rgba(90, 12, 12, 0.979);
+    border: none;
+}
+button{
+    transition: all 1s;
+}
+button:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.343), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
